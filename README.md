@@ -1,2 +1,2 @@
 # datasciencecoursera
-Assignment for Courser
+Assignment for Coursera
